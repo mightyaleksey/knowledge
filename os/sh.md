@@ -11,6 +11,7 @@ http://www.ooblick.com/text/sh/
 https://developer.apple.com/library/content/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html
 
 
-## Functional way
+## Related
 
-http://quasimal.com/posts/2012-05-21-funsh.html
+- https://google.github.io/styleguide/shell.xml
+- http://quasimal.com/posts/2012-05-21-funsh.html
